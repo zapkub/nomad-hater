@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		234682D624361AEA00A06972 /* nomad-stealing-preventor */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "nomad-stealing-preventor"; sourceTree = BUILT_PRODUCTS_DIR; };
 		234682D924361AEA00A06972 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		234682E02436260900A06972 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		234682CD24361AEA00A06972 = {
 			isa = PBXGroup;
 			children = (
+				234682E02436260900A06972 /* README.md */,
 				234682D824361AEA00A06972 /* nomad-stealing-preventor */,
 				234682D724361AEA00A06972 /* Products */,
 			);
